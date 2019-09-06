@@ -7,5 +7,5 @@ To better understand this generation, we ran an analysis comparing avocado sales
 #Data Gathering 
 
 To conduct the study we gathered a dataset created by Haas Avocado Board and obtained using Kaggle and a Homeownership dataset from the United States Census.
--https://www.census.gov/housing/hvs/data/ann17ind.html
--https://www.kaggle.com/neuromusic/avocado-prices
+  -https://www.census.gov/housing/hvs/data/ann17ind.html
+  -https://www.kaggle.com/neuromusic/avocado-prices
