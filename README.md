@@ -1,5 +1,5 @@
 # Understanding-Millennials
-To better understand this generation, we ran an analysis comparing avocado sales vs.real estate data sets to see if Millennial are truly spending all their money on avocado toast.
+To better understand this generation, we ran an analysis comparing avocado sales vs. real estate data sets to see if Millennial are truly spending all their money on avocado toast.
 
 
 <img src="https://raw.githubusercontent.com/mmsquier/Understanding-Millennials/master/Millennial-meme.PNG" height=300>
@@ -10,9 +10,9 @@ To conduct the study a dataset created by Haas Avocado Board was obtained using 
   * https://www.kaggle.com/neuromusic/avocado-prices
   
 # Data Transformation
-After downloading the CSV files and looking at the data we noticed that the datasets did not share the same regional labeling. We decided to go with the US Census region catagories for it seemed a formal classification. The Avocado dataset states classification was altered to match the US Census dataset. 
+After downloading the CSV files and looking at the data we noticed that the datasets did not share the same region labeling. We decided to go with the US Census region categories for it seemed a formal classification. The Avocado dataset City-State classification was altered to match the US Census dataset. 
 
-The next step was to create Jupyter notebook and upload the datasets. In the notebook we cleaneup the data utilizing:
+The next step was to create Jupyter notebook and upload the datasets. In the notebook we cleaned up the data utilizing:
   * group_by ()
   * sum()
   * rename()
