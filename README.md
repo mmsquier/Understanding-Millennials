@@ -1,6 +1,6 @@
 # Understanding-Millennials
 To better understand this generation, we ran an analysis comparing avocado sales vs.real estate data sets to see if Millennial are truly spending all their money on avocado toast.
-![Mill. Joke](GitHub/Understanding-Millennials/Millennial-meme.png)
+![Mill. Joke](Understanding-Millennials/Millennial-meme.png)
 
 # Data Gathering 
 
